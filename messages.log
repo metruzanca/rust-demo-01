@@ -1,0 +1,6 @@
+{ "timestamp": 1680457491526, "type":"message", "sender": "Sam", "message": "Hows it going?" }
+{ "timestamp": 1680457491626, "type":"message", "sender": "Not Sam", "message": "Pretty good, you?" }
+{ "timestamp": 1680457491726, "type":"message", "sender": "Sam", "message": "Same" }
+{ "timestamp": 1680457491826, "type":"message", "sender": "Not Sam", "message": "Nice" }
+{ "timestamp": 1680457491926, "type":"message", "sender": "Sam", "message": "Noice" }
+{"timestamp":1680485292,"type":"message","sender":"Sam","message":"sick, it works!"}
